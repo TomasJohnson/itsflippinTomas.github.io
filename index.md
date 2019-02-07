@@ -11,10 +11,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Why you may be asking?
 
-1.This is easier than HTML
-2.No Js to fuss with
-3.No QA team.
-4.No QA Team.
+1. This is easier than HTML
+2. No Js to fuss with
+3. No QA team.
+4. No QA Team.
 
 Cons?
 >I can't think of any right now...
