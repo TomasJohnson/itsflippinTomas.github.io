@@ -4,26 +4,23 @@ You can use the [editor on GitHub](https://github.com/TomasJohnson/itsflippinTom
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# WELCOME
+### I'm Glad you can make it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***This is going to be fun***
 
-```markdown
-Syntax highlighted code block
+Why you may be asking?
 
-# Header 1
-## Header 2
-### Header 3
+1.This is easier than HTML
+2.No Js to fuss with
+3.No QA team.
+4.No QA Team.
 
-- Bulleted
-- List
+Cons?
+>I can't think of any right now...
+-me
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](https://d.wattpad.com/story_parts/447125120/images/14d544b1044271b3429268876396.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
